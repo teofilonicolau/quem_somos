@@ -1,0 +1,97 @@
+
+
+.title{
+
+}
+.container{
+   width: 700px;
+   margin-left: auto;
+   margin-left: auto;
+}
+
+}
+.social-icons{
+
+}
+.icons{
+
+}
+.formContainer{
+    max-width: 230px;
+    background-color: #FFFFFFBB;
+    padding: 20px;
+    float: right;
+    text-align: center;
+}
+.primeiro{
+    margin: 0;
+    padding: 0;
+    background-color: cyan;
+    background-size: cover;
+    background-position: top center;
+    position: relative;
+    z-index: 1;
+    text-align: center;
+}
+.segundo{
+    margin: 0;
+    padding: 0;
+    background-color: cyan;
+}
+.terceiro{
+    margin: 0;
+    padding: 0;
+    background-color: cyan;   
+
+}
+.quarto{
+    margin: 0;
+    padding: 0;
+    background-color: cyan;
+
+}
+.quinto{
+    margin: 0;
+    padding: 0;
+    background-color: cyan;
+
+}
+.sexto{
+    margin: 0;
+    padding: 0;
+    background-color: cyan;
+
+}
+.setimo{ margin: 0;
+    padding: 0;
+    background-color: cyan;
+
+}
+figure {
+    padding: 0;
+    margin: 40 px 0;
+}
+figure>img {
+    width: 100%;
+}
+nav ul li a {
+    display: block;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    list-style-type: none;
+}
+footer{
+    background-color:;
+    color: ;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding: 8px;
+    margin: auto;
+    border-bottom: 8 px solid ;
+    border: 2px solid ;
+    border-radius:20px 20px ;
+    box-sizing: border-box;
+    box-shadow: 10px 5px 5px black;
+}
